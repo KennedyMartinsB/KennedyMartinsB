@@ -4,7 +4,7 @@
 
 Seja bem-vindo! 😉
 
-Meu nome é Kennedy Martins, tenho 23 anos e sou desenvolvedor web baseado em São Paulo. Sou graduado em ADS pela SPTech School e possuo formação técnica pela Etec de Guaianases.
+Meu nome é Kennedy Martins, tenho 23 anos e sou desenvolvedor web nascido e crescido em São Paulo. Sou graduado em ADS pela SPTech School e possuo formação técnica pela Etec de Guaianases.
 
 Com quase 3 anos de mercado, atuei em produtos financeiros de alta escala, como o **TradeMap** e a plataforma **Negocia Fácil**, desenvolvendo soluções para grandes marcas como Magalu, Casas Bahia, Claro e Vivo.
 
