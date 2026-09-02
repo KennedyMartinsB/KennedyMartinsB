@@ -41,10 +41,9 @@ Com uma base sólida em **Front-end**, domino **Vue.js, Nuxt.js, Angular** e **R
 ### 📈 Estatísticas do GitHub
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats-six.vercel.app/api?username=KennedyMartinsB&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub de Kennedy">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=KennedyMartinsB&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub de Kennedy">
   <img height="180em" src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=KennedyMartinsB&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Kennedy">
 </div>
-
 ---
 
 ### 🌐 Conecte-se comigo
