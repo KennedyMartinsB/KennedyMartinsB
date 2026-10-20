@@ -6,7 +6,7 @@ Seja bem-vindo! 😉
 
 Meu nome é Kennedy Martins, tenho 23 anos e sou desenvolvedor web nascido e crescido em São Paulo. Sou graduado em ADS pela SPTech School e possuo formação técnica pela Etec de Guaianases.
 
-Com quase 3 anos de mercado, atuei em produtos financeiros de alta escala, como o **TradeMap** e a plataforma **Negocia Fácil**, desenvolvendo soluções para grandes marcas como Magalu, Casas Bahia, Claro e Vivo.
+Com 3 anos de mercado, atuei em produtos financeiros de alta escala, como o **TradeMap** e a plataforma **Negocia Fácil**, desenvolvendo soluções para grandes marcas como Magalu, Casas Bahia, Claro e Vivo.
 
 Com uma base sólida em **Front-end**, domino **Vue.js, Nuxt.js, Angular** e **React com TypeScript**. Atualmente, estou expandindo meu escopo para o ecossistema **Fullstack**, consolidando entregas no Back-end com **Kotlin, Spring Boot, Docker** e arquitetura de microsserviços, aplicando o mesmo foco em performance e qualidade que sempre dediquei à interface.
 
